@@ -1,7 +1,7 @@
 
-#####Hey friends!
-######This is Dharani T, a second year B.Tech IT student at Government college of technology, Coimbatore.
-**Skills :** 
+Hey friends!
+This is Dharani T, a second year B.Tech IT student at Government college of technology, Coimbatore.
+Skills : 
   </> C 
   </> C++
   </> Java
