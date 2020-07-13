@@ -1,0 +1,67 @@
+Git and GitHub Series: Task-1
+
+1. What do you mean by Git and GitHub?
+   GIT:
+    * Git is free and open source Distributed Version Control System (DVCS), i.e) It's a tool that help all the techies to do team development perfectly and smoothly. It runs in command line interface.
+   GITHUB:
+    * GitHub is also a free and open source platform. It provides a web - based graphical interface. Mainly it provides Access Control and Collabration features for every programmers.
+
+2. Why GitHub is so popular and used in most of the projects?
+    </> It's support all the popular programming languages and streamlines the iteration process.
+    </> Hosts various source code projects of all techies.
+    </>  Easy Version Control
+    </>  Secure cloud storage
+    </>  Free open source
+   
+3. What is version control system ? How Git is a VCS?
+     * A Version Control System records the changes that we make to all project files. It provides clarity when reviewing software by describing When, What, Why it was changed!
+     * It keeps tracking changes of source code in software development of all programmers and developers. Hence Git is known as VCS.
+
+4. What are the other platforms similar to Github?
+    </> GitKraken
+    </> Gitlab
+    </> BitBucket
+    </> Source Forge
+    </> AWS CodeCommit
+    </> Beanstalk
+    </> Gitea
+    </>  Apache Allura
+
+5. Why are you interested in learning of Git and Github?
+   Interests that make me to learn it:
+    </> To begin my projects and open source contribution.
+    </> Whenever I open a LinkedIn, every senior programmers and developers includes the Github 
+Repository Link in most of their posts, which makes me curious to learn about it!
+
+
+Git and GitHub Series: Task-2
+
+Link to the GitHub repository .
+    https://github.com/Rani-dha/Github_series  
+Link to the GitHub Readme.md
+    https://github.com/Rani-dha/Github_series/blob/master/README.md
+
+1. How git workflow works?
+    *It premits every Programmer and Developer to clones the repositor, works locally on the codes,makes a commit with changes, and push it to the central repository for others to pull and continue their work.
+    *There are three stages:
+       </> Committed: It is stored in Local repository with all the  changes.
+       </> Modified  : It contains changes to the files but none of the changes are being saved to the local repository.
+       </> Staged : Files is in index(stage) i.e) It is tagged to be considered  in the next commit.
+
+2.What're the different stages of a git project as commit, add?
+    </> Initializing Git - git init
+    </> Adding files to share - git add filename
+    </> Saving the added files - git commit -m "The short message"
+    </> Adding a remote Repository - git remote add nickname link_of_Githubrepo
+    </> Uploading files - git push nickname master 
+
+3. Is it possible to do a git commit before git add. if you have made any changes? Explain  why?
+    * No, it is not possible. we can't commit without a git add because we should add the different versions and then commit it to view the changes.
+
+4. Why is git diff used?
+    * It is used to find the difference between the versions.
+
+5. Can we leave the commit messages as blank?
+    * Yes, we can leave the messages as blank. By using, git commit -a --allow-empty-message-m'' 
+    * A Good practice is to commit messages for better understanding.
+ 
