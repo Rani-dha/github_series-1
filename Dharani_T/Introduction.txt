@@ -1,11 +1,11 @@
+
 Hey friends!
-This is Dharani T, a second year B.Tech IT student at
-Government college of technology.
+This is Dharani T, a second year B.Tech IT student at Government college of technology, Coimbatore.
 Skills : 
-        </> C 
-        </> C++
-        </> Java
-        </> OOPS
-        </> Graphic Design
-        </> Data Structures and Algorithms
-        </> Operating System
+  </> C 
+  </> C++
+  </> Java
+  </> OOPS
+  </> Graphic Design
+  </> Data Structures and Algorithms
+  </> Operating System
