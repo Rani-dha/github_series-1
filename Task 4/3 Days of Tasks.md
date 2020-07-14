@@ -38,7 +38,7 @@ Repository Link in most of their posts, which makes me more curious to learn abo
 
 #### Git and GitHub Series: Task-2
 
-**Link to the GitHub repository .
+**Link to the GitHub repository.
     https://github.com/Rani-dha/Github_series  
 Link to the GitHub Readme.md
     https://github.com/Rani-dha/Github_series/blob/master/README.md**
@@ -69,8 +69,9 @@ Link to the GitHub Readme.md
  
 #### Git and GitHub series : Task -3
 
-**Link for Pull Requests:
-https://github.com/codewayy/github_series/pull/182  
+**Link for Pull Requests:**
+
+**https://github.com/codewayy/github_series/pull/182  
 https://github.com/Rani-dha/Github_series/pull/1**  
 
 **a) What is meant by the term fork and clone?**
@@ -90,5 +91,5 @@ https://github.com/Rani-dha/Github_series/pull/1**
 **e) How can we delete a branch?**
 * git branch -d <branchtodelete>
      Above command is used to delete a branch. 
-   *-d option will delete the branch only if it has already pushed and merged with the remote branch.
-   *-D option is used to force the branch to be deleted, even if it hasn't been pushed or merged yet.
+   * -d option will delete the branch only if it has already pushed and merged with the remote branch.
+   * -D option is used to force the branch to be deleted, even if it hasn't been pushed or merged yet.
